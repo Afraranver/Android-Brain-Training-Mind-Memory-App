@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197755985688",
+    "project_id": "brain-training-66bf4",
+    "storage_bucket": "brain-training-66bf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197755985688:android:713c6aa586e9331987886d",
+        "android_client_info": {
+          "package_name": "com.example.braintraining_mindmemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197755985688-sf86l4mo7afhhcgpajpe55vj7as0q5f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDqlMhUCnzslQGYbCYin2SUaq-0IpwSNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197755985688-sf86l4mo7afhhcgpajpe55vj7as0q5f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
